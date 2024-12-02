@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "../src/assets/products/1.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/2.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/3.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/4.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/5.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/6.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/7.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/8.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/9.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/10.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/11.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/12.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/13.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/14.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    },
+    {
+      "id": 1,
+      "img": "../src/assets/products/15.jpg",
+      "title": "Sales",
+      "rating": 4,
+      "coloer": "blue",
+      "aosDlay": "0"
+    }
+  ]
+}
